@@ -24,3 +24,5 @@ This micro development board is specially designed to run Linux. Despite a mini 
 
 ![](2.Images/MQ-B-V1p6.png)
 
+![](2.Images/aw-d1.png)
+
