@@ -20,6 +20,17 @@ This micro development board is specially designed to run Linux. Despite a mini 
   * Fel,reset button
   * 4x4cm size
 
+### PCB
+![](2.Images/f.png)
+![](2.Images/in2.png)
+![](2.Images/b.png)
+
+### SCH
+![](2.Images/1.png)
+![](2.Images/2.png)
+![](2.Images/3.png)
+
+### V1.6 Mass-Production
 ![](2.Images/MQ-F-v1p6.png)
 
 ![](2.Images/MQ-B-V1p6.png)
